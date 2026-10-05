@@ -25,6 +25,7 @@ g++ --version && cmake --version && gdb --version && valgrind --version
 
 ## 📖 读（约 30 分钟）
 
+- **先读 `00_CMake速成.md`**（如果你还没读）——今天的 CMake 全靠它
 - learncpp「环境搭建」+「第一个程序」两节
 - **只读这两节。** 别往下翻，别贪多。
 
@@ -59,9 +60,11 @@ project(cpp_camp CXX)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-include_directories(include)
 add_executable(app src/main.cpp src/math_utils.cpp)
+target_include_directories(app PRIVATE include)
 ```
+
+> **为什么用 `target_include_directories` 而不是 `include_directories`**：见 `00_CMake速成.md` 第四节。简单说——前者只影响指定的 target，后者污染全局。
 
 然后：
 
@@ -89,7 +92,7 @@ cmake --build build
 |---|---|
 | `cmake: command not found` | 装完后**重开终端**（PATH 没刷新） |
 | `undefined reference to 'add(int, int)'` | `CMakeLists.txt` 里 `add_executable` 漏了 `math_utils.cpp` |
-| `fatal error: math_utils.h: No such file` | 漏了 `include_directories(include)` |
+| `fatal error: math_utils.h: No such file` | 漏了 `target_include_directories(app PRIVATE include)` |
 | 改了代码但结果没变 | 记得重新 `cmake --build build` |
 
 ---
