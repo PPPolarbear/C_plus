@@ -20,7 +20,7 @@ cd cpp-camp2 && cmake --build build
 
 ## 📖 读（约 40 分钟）
 
-- learncpp：构造函数、成员初始化列表
+- LearnCpp 14.9 “Introduction to constructors”、14.10 “Constructor member initializer lists”、14.11 “Default constructors and default arguments”
 - 重点：**成员初始化列表 vs 构造函数体内赋值**
 
 ---

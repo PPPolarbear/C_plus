@@ -20,6 +20,7 @@ cd cpp-camp3 && cmake --build build
 
 ## 📖 读（约 20 分钟）
 
+- **不读新内容。**回看 cppreference `std::atomic` 页面和 `std::shared_ptr` 页面中的线程安全说明，按“控制块计数”与“被管理对象”两个层次整理结论
 不读新内容。
 
 ---

@@ -24,8 +24,9 @@ cd cpp-camp && ls -R
 
 ## 📖 读（约 30 分钟）
 
-- learncpp 里讲"头文件 / 源文件 / 翻译单元"的部分
-- 只读这一块
+- LearnCpp 0.5 “Introduction to the compiler, linker, and libraries”
+- LearnCpp 2.7 “Forward declarations and definitions”、2.8 “Programs with multiple code files”、2.11 “Header files”、2.12 “Header guards”
+- 只读以上章节，重点对照声明、定义、头文件和源文件的职责
 
 ---
 

@@ -22,8 +22,8 @@ Day 18 你见过它们，今天要**写出来 + 读懂报告**。
 
 ## 📖 读（约 30 分钟）
 
-- 搜「valgrind memcheck 参数 用法」
-- 重点记：`--leak-check=full` / `--track-origins=yes` / `--show-leak-kinds=all`
+- Valgrind User Manual：“Memcheck: a memory error detector”、“Memcheck Command-line Options”、“Memcheck error messages”
+- 对照 `--leak-check=full`、`--track-origins=yes`、`--show-leak-kinds=all` 三个选项
 
 ---
 

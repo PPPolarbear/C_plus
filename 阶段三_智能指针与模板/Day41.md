@@ -22,9 +22,9 @@ cd cpp-camp3 && cmake --build build
 
 ## 📖 读（约 40 分钟）
 
-- 搜「C++ 迭代器 iterator_traits 五个类型」
-- 搜「C++ 手写迭代器 面试」
-- 重点理解：`iterator_category` / `value_type` / `difference_type` / `pointer` / `reference`
+- LearnCpp 18.2 “Introduction to iterators”
+- cppreference：`std::iterator_traits` 页面中的 “Member types”一节
+- 重点理解 `iterator_category` / `value_type` / `difference_type` / `pointer` / `reference` 五个类型别名
 
 ---
 

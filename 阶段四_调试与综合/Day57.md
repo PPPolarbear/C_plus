@@ -20,7 +20,7 @@ cd cpp-camp3 && cmake -B build && cmake --build build -j && cd build && ctest
 
 ## 📖 读（约 20 分钟）
 
-不读新内容。今天只做收尾。
+- **不读新章节。**逐项核对本项目 `README.md` 中的功能、构建命令、测试方法和已知限制；确保这些说明与最终代码一致。今天只做收尾。
 
 ---
 

@@ -22,8 +22,8 @@ cd cpp-camp3 && cmake --build build && ./build/app
 
 ## 📖 读（约 30 分钟）
 
-- 搜「C++ 均摊时间复杂度 amortized」
-- 只读概念
+- LearnCpp 16.10 “std::vector resizing and capacity”
+- cppreference：`std::vector` 页面中的 “Complexity” 与 “Capacity” 两节；只读扩容复杂度和容量变化
 
 ---
 

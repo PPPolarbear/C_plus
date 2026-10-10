@@ -22,8 +22,8 @@ cd cpp-camp3 && cmake --build build && ./build/app
 
 ## 📖 读（约 30 分钟）
 
-- learncpp：拷贝构造函数 + **三法则（Rule of Three）**
-- 重点：三法则说的是什么
+- LearnCpp 14.14 “Introduction to the copy constructor”、15.4 “Introduction to destructors”、21.12 “Overloading the assignment operator”
+- 对照这三种特殊成员函数，归纳 Rule of Three 的适用条件
 
 ---
 

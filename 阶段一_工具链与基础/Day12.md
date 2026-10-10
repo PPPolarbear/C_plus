@@ -20,7 +20,7 @@ cd cpp-camp2 && cmake --build build && ./build/app
 
 ## 📖 读（约 30 分钟）
 
-- learncpp：静态成员变量、静态成员函数
+- LearnCpp 15.6 “Static member variables”、15.7 “Static member functions”
 - 重点：为什么 `static` 成员变量要在 `.cpp` 里**再定义一次**
 
 ---

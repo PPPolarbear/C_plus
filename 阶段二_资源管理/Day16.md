@@ -24,7 +24,8 @@ mkdir -p cpp-camp3 && cd cpp-camp3
 
 ## 📖 读（约 30 分钟）
 
-- learncpp：动态内存分配（`new` / `delete` / `new[]` / `delete[]`）
+- LearnCpp 19.1 “Dynamic memory allocation with new and delete”、19.2 “Dynamically allocating arrays”
+- 重点对照单对象的 `new` / `delete` 与数组的 `new[]` / `delete[]`
 
 ---
 

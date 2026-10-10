@@ -22,9 +22,8 @@ cd cpp-camp3 && touch tests/test_placement.cpp
 
 ## 📖 读（约 40 分钟）
 
-- 搜「C++ placement new 详解」
-- 搜「C++ alignas 内存对齐」
-- 搜「C++ 对象生命周期 内存分配」
+- LearnCpp 19.1 “Dynamic memory allocation with new and delete”、19.2 “Dynamically allocating arrays”
+- cppreference：语言参考 “new-expression”中的 placement new 形式、“alignas specifier”与 “Object lifetime”条目
 
 ---
 

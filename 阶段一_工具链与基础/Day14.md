@@ -22,7 +22,8 @@ cd cpp-camp2 && touch include/scope_guard.h
 
 ## 📖 读（约 30 分钟）
 
-- 搜「C++ ScopeGuard 实现」「C++ RAII 守卫」
+- LearnCpp 15.4 “Introduction to destructors”与19.3 “Destructors”，只复习析构函数自动清理资源的机制
+- C++ Core Guidelines：R.1 “Manage resources automatically using resource handles and RAII”
 - 只读思路，**不要抄代码**，看完就关掉自己写
 
 ---

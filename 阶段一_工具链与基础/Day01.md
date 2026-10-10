@@ -26,8 +26,9 @@ g++ --version && cmake --version && gdb --version && valgrind --version
 ## 📖 读（约 30 分钟）
 
 - **先读 `00_CMake速成.md`**（如果你还没读）——今天的 CMake 全靠它
-- learncpp「环境搭建」+「第一个程序」两节
-- **只读这两节。** 别往下翻，别贪多。
+- LearnCpp 0.4 “Introduction to C++ development”、0.5 “Introduction to the compiler, linker, and libraries”、0.6 “Installing an Integrated Development Environment (IDE)”、0.7 “Compiling your first program”
+- LearnCpp 2.8 “Programs with multiple code files”
+- **只读以上章节。**别往下翻，别贪多。
 
 ---
 

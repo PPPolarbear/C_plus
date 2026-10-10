@@ -22,8 +22,8 @@ cd cpp-camp3 && touch include/mystring.h
 
 ## 📖 读（约 20 分钟）
 
-- 只查 `strlen` / `strcpy` / `memcpy` 的用法
-- 不读新概念
+- cppreference：`std::strlen`、`std::strcpy`、`std::memcpy` 三个函数条目，只核对参数、返回值和缓冲区要求
+- LearnCpp 19.1 “Dynamic memory allocation with new and delete”，回看本日字符串缓冲区的分配与释放
 
 ---
 

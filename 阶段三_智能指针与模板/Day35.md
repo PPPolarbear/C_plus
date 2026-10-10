@@ -22,6 +22,7 @@ cd cpp-camp3 && touch include/mysharedptr.h
 
 ## 📖 读（约 20 分钟）
 
+- **不读新内容。**开始实现前回看 LearnCpp 22.6 “std::shared_ptr”中的构造、引用计数和析构行为
 不读新内容，直接实现。
 
 ---

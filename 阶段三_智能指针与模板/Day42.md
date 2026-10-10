@@ -22,8 +22,8 @@ cd cpp-camp3 && cmake --build build
 
 ## 📖 读（约 20 分钟）
 
-- 查 [cppreference 中文](https://zh.cppreference.com/) 的 `<algorithm>` 页
-- 看看有哪些算法可以试
+- LearnCpp 18.3 “Introduction to standard library algorithms”
+- cppreference：`std::sort` 页面中的 “Type requirements”与 “Notes”；再从 `<algorithm>` 算法列表选 `find`、`count`、`max_element`、`transform`、`reverse` 对照练习
 
 ---
 

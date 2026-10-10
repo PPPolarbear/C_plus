@@ -20,7 +20,7 @@ cd cpp-camp2 && cmake --build build && ./build/app
 
 ## 📖 读（约 20 分钟）
 
-- 不读新内容。回看你前两天写的注释和抄下来的编译错误
+- **不读新内容。**按练习中暴露的问题回看 LearnCpp 12.7 “Introduction to pointers”、12.8 “Null pointers”、12.9 “Pointers and const”、12.10 “Pass by address”、12.5 “Pass by lvalue reference”及12.6 “Pass by const lvalue reference”；同时重读自己记录的编译错误
 
 ---
 

@@ -23,8 +23,8 @@ valgrind --leak-check=full --show-leak-kinds=all ./build/app 2>&1 | head -60
 
 ## 📖 读（约 30 分钟）
 
-- 搜「valgrind memcheck 报告 解读」
-- 重点认识这几个词：`Invalid free` / `definitely lost` / `indirectly lost` / `Invalid write`
+- Valgrind User Manual 的 “Memcheck: a memory error detector”与“Memcheck error messages”两节
+- 对照报告中的 `Invalid free`、`definitely lost`、`indirectly lost`、`Invalid write` 四种诊断
 
 ---
 

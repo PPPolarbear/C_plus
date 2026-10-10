@@ -20,8 +20,8 @@ cd cpp-camp3 && cmake --build build && ./build/app
 
 ## 📖 读（约 30 分钟）
 
-- 搜「C++ emplace_back 原理 区别 push_back」
-- 搜「C++ 可变参数模板 variadic template」
+- cppreference：`std::vector::emplace_back` 页面中的 “Notes”与 “Example”
+- cppreference：语言参考 “Parameter pack (since C++11)”条目；只看参数包展开与转发引用的基本形式
 
 ---
 

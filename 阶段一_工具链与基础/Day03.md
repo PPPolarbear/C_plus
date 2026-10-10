@@ -22,8 +22,9 @@ cd cpp-camp && cmake --build build && ./build/app
 
 ## 📖 读（约 20 分钟）
 
-- 搜「gdb 断点 教程」，只读前 10 分钟能看懂的部分
-- 记住四个命令就够：`break` / `run` / `next` / `print`
+- LearnCpp 0.9 “Configuring your compiler: Build configurations”，只看 Debug 配置的作用
+- GNU GDB Manual：“Starting your Program”、“Breakpoints”、“Continuing and Stepping”、“Examining Data”
+- 本日只练 `break` / `run` / `next` / `print`，不扩展阅读其他 GDB 命令
 
 ---
 

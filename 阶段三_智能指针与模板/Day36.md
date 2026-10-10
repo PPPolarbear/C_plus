@@ -20,6 +20,7 @@ cd cpp-camp3 && cmake --build build
 
 ## 📖 读（约 20 分钟）
 
+- **不读新内容。**回看 LearnCpp 22.3 “Move constructors and move assignment”与22.6 “std::shared_ptr”，按“先增加新资源计数，再释放旧资源”的顺序检查赋值
 不读新内容。
 
 ---

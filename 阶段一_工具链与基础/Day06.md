@@ -20,7 +20,7 @@ cd cpp-camp2 && cmake --build build && ./build/app
 
 ## 📖 读（约 20 分钟）
 
-- 只查今天卡住时需要的部分，**不读新内容**
+- **不读新内容。**只回看做练习时卡住的对应章节：LearnCpp 4.1 “Introduction to fundamental data types”、4.12 “Introduction to type conversion and static_cast”、8.2 “If statements and blocks”、8.5 “Switch statement basics”、8.8 “Introduction to loops and while statements”、8.10 “For statements”、2.4 “Introduction to function parameters and arguments”、12.5 “Pass by lvalue reference”或12.6 “Pass by const lvalue reference”
 
 ---
 

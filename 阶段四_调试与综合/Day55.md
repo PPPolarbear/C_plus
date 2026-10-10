@@ -22,8 +22,8 @@ cd cpp-camp3 && mkdir -p bench && touch bench/bench_vector.cpp
 
 ## 📖 读（约 20 分钟）
 
-- 搜「C++ chrono 计时 高精度」
-- 搜「google benchmark 使用」（可选，今天用 `chrono` 就够）
+- LearnCpp 18.4 “Timing your code”
+- cppreference：`std::chrono::steady_clock`与`std::chrono::duration`条目；本日用标准库计时，不需要额外引入 Google Benchmark
 
 ---
 

@@ -22,8 +22,8 @@ cd cpp-camp2 && touch include/tracker.h src/tracker.cpp
 
 ## 📖 读（约 40 分钟）
 
-- learncpp：析构函数
-- 搜「C++ 对象 生命周期 作用域」
+- LearnCpp 15.4 “Introduction to destructors”、19.3 “Destructors”、7.3 “Local variables”
+- 对照局部变量离开作用域与对象析构的时机
 
 ---
 

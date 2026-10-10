@@ -2,7 +2,12 @@
 #include <iostream>
 using namespace std;
 
-void OHNO()
+std::string OHNO(const std::string& s)
 {
-    cout << "OHNO" << endl;
+    return "OHNO: " + s;
+}
+
+int strlen(const std::string& s)
+{
+    return static_cast<int>(s.length());
 }

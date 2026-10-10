@@ -23,7 +23,7 @@ ls build/ | grep test
 
 ## 📖 读（约 20 分钟）
 
-不读新内容。
+- **不读新内容。**回看 GNU GDB Manual “Breakpoints”与“Examining Data”、Valgrind User Manual “Memcheck error messages”，只针对回归中失败的模块查对应章节
 
 ---
 

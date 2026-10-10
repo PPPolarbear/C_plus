@@ -20,9 +20,9 @@ cd cpp-camp3 && cmake --build build
 
 ## 📖 读（约 40 分钟）
 
-- 搜「C++ shared_ptr 线程安全」
-- 搜「C++ atomic 原子操作」
-- **重点：找到"shared_ptr 是不是线程安全的"这个问题的标准答案**
+- cppreference：`std::atomic` 的 `operator++` / `fetch_add`，以及 `std::memory_order` 条目
+- cppreference：`std::shared_ptr` 页面 “Notes” 中关于多线程访问不同实例和同一实例的说明；区分控制块计数与智能指针对象本身
+- **重点：根据这两条资料回答“shared_ptr 是不是线程安全的”**
 
 ---
 

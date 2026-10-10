@@ -20,8 +20,8 @@ cd cpp-camp3 && cmake --build build
 
 ## 📖 读（约 30 分钟）
 
-- 查 [cppreference 中文](https://zh.cppreference.com/) 的 `std::unique_ptr` 页面
-- 对照接口列表
+- LearnCpp 22.3 “Move constructors and move assignment”、22.5 “std::unique_ptr”
+- 查 cppreference `std::unique_ptr` 页面中的 “Modifiers”与 “Observers”两节，对照 `release()`、`reset()`、`get()`
 
 ---
 

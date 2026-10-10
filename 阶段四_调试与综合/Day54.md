@@ -22,8 +22,8 @@ cd cpp-camp3 && ls -R | head -40
 
 ## 📖 读（约 20 分钟）
 
-- 搜「CMake 现代用法 target_link_libraries」
-- 搜「GoogleTest CMake 集成」
+- CMake Reference：`cmake-buildsystem(7)`中的 “Targets”与 “Usage Requirements”，以及 `target_link_libraries()` 命令页
+- GoogleTest documentation：“Quickstart: Building with CMake”
 
 ---
 

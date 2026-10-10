@@ -22,8 +22,9 @@ cd cpp-camp3 && cmake --build build
 
 ## 📖 读（约 30 分钟）
 
-- 搜「C++ copy and swap 异常安全」
-- 复习 Day 23 写的 copy-and-swap
+- LearnCpp 27.9 “Exception specifications and noexcept”、27.10 “std::move_if_noexcept”
+- cppreference：`std::vector::push_back` 页面中的 “Exceptions”说明，对照强异常保证的适用条件
+- 回看 Day 23 的 copy-and-swap 实现，沿着扩容中抛异常的路径检查原容器是否保持不变
 
 ---
 

@@ -23,8 +23,8 @@ gdb ./build/app
 
 ## 📖 读（约 30 分钟）
 
-- 搜「gdb 常用命令 速查表」
-- 抄下命令表贴在显示器边上
+- GNU GDB Manual：“Starting your Program”、“Breakpoints”、“Continuing and Stepping”、“Examining Data”、“Backtraces”
+- 只整理本日要实际使用的断点、单步、打印变量和查看调用栈命令
 
 ---
 

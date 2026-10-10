@@ -22,8 +22,8 @@ cd cpp-camp3 && cmake --build build && ./build/app
 
 ## 📖 读（约 40 分钟）
 
-- learncpp：拷贝赋值、自我赋值
-- 搜「C++ copy and swap idiom」
+- LearnCpp 21.12 “Overloading the assignment operator”、14.14 “Introduction to the copy constructor”
+- 结合本日代码检查自我赋值时的资源释放顺序；copy-and-swap 作为实现练习
 
 ---
 

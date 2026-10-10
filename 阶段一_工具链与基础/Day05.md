@@ -22,7 +22,9 @@ cd cpp-camp2 && cmake --build build && ./build/app
 
 ## 📖 读（约 30 分钟）
 
-- learncpp：函数参数传递、引用参数、默认参数
+- LearnCpp 2.4 “Introduction to function parameters and arguments”、11.5 “Default arguments”
+- LearnCpp 12.3 “Lvalue references”、12.4 “Lvalue references to const”、12.5 “Pass by lvalue reference”、12.6 “Pass by const lvalue reference”
+- LearnCpp 7.11 “Static local variables”
 - 重点看：**值传递 vs 引用传递的区别**
 
 ---

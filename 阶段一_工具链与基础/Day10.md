@@ -22,7 +22,7 @@ cd cpp-camp2 && touch include/bank_account.h src/bank_account.cpp
 
 ## 📖 读（约 40 分钟）
 
-- learncpp：类的介绍、成员函数、访问说明符
+- LearnCpp 14.2 “Introduction to classes”、14.3 “Member functions”、14.5 “Public and private members and access specifiers”、14.6 “Access functions”、14.8 “The benefits of data hiding (encapsulation)”
 - 重点：`public` / `private` 的**意义**，不是语法
 
 ---

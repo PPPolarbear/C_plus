@@ -22,7 +22,7 @@ cd cpp-camp2 && code src/main.cpp
 
 ## 📖 读（约 40 分钟）
 
-- learncpp：复合类型——指针部分
+- LearnCpp 12.1 “Introduction to compound data types”、12.7 “Introduction to pointers”、12.8 “Null pointers”、12.10 “Pass by address”
 - **这是本阶段最重要的一块，读慢一点**
 
 ---

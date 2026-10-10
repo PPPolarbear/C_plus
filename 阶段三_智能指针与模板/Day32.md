@@ -22,8 +22,8 @@ cd cpp-camp3 && touch include/myuniqueptr.h
 
 ## 📖 读（约 30 分钟）
 
-- 搜「C++ unique_ptr 实现原理」
-- 搜「C++ 所有权 ownership」
+- LearnCpp 22.5 “std::unique_ptr”，重点读独占所有权、不可拷贝和析构时自动释放
+- C++ Core Guidelines：R.20 “Use unique_ptr or shared_ptr to represent ownership”
 
 ---
 

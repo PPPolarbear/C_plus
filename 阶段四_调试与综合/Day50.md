@@ -20,8 +20,9 @@ cd cpp-camp3 && touch tests/poison/p4_uninit.cpp tests/poison/p5_mismatch.cpp
 
 ## 📖 读（约 30 分钟）
 
-- 搜「AddressSanitizer 使用 gcc -fsanitize=address」
-- 搜「valgrind vs ASan 区别」
+- GCC Manual：“Instrumentation Options”中的 `-fsanitize=address` 选项
+- Clang documentation：“AddressSanitizer”中的使用与检测范围
+- Valgrind User Manual：“Memcheck: a memory error detector”，对比两种工具能发现的问题与运行方式
 
 ---
 

@@ -22,8 +22,8 @@ cd cpp-camp3 && touch include/shallow_copy.h src/shallow_copy.cpp
 
 ## 📖 读（约 30 分钟）
 
-- 搜「C++ 深拷贝 浅拷贝 区别」
-- 只读概念，不要看别人怎么修
+- LearnCpp 14.14 “Introduction to the copy constructor”、14.15 “Class initialization and copy elision”
+- 用今天的崩溃实验观察：两个对象复制后是否仍指向同一块动态内存；只读概念，不看修复代码
 
 ---
 

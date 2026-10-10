@@ -22,8 +22,8 @@ cd cpp-camp3 && cmake --build build
 
 ## 📖 读（约 40 分钟）
 
-- 搜「C++ shared_ptr 引用计数 实现 面试」
-- 搜「C++ 控制块 control block」
+- LearnCpp 22.6 “std::shared_ptr”，重点看多个智能指针共享同一对象及 `use_count()`
+- cppreference `std::shared_ptr` 页面中的 “Implementation notes”，了解实现中控制块保存的信息
 
 ---
 

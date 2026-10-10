@@ -24,7 +24,8 @@ cd cpp-camp2 && code src/main.cpp
 
 ## 📖 读（约 30 分钟）
 
-- learncpp：基本数据类型、类型转换、控制流 三块
+- LearnCpp 4.1 “Introduction to fundamental data types”、4.4 “Signed integers”、4.8 “Floating point numbers”、4.9 “Boolean values”、4.12 “Introduction to type conversion and static_cast”
+- LearnCpp 8.1 “Control flow introduction”、8.2 “If statements and blocks”、8.5 “Switch statement basics”、8.8 “Introduction to loops and while statements”、8.10 “For statements”、8.11 “Break and continue”
 - **略读**。看到"我早就会了"的跳过；看到陌生的停下来
 
 ---

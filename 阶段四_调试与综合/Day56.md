@@ -20,8 +20,9 @@
 
 ## 📖 读（约 20 分钟）
 
-- 搜「Compiler Explorer 使用教程」
-- 了解 `-O0` / `-O2` 的区别
+- LearnCpp 5.4 “The as-if rule and compile-time optimization”
+- Compiler Explorer documentation：“How to use Compiler Explorer”
+- GCC Manual：“Options That Control Optimization”中 `-O0` 与 `-O2` 的说明
 
 ---
 

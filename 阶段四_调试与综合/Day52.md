@@ -22,8 +22,8 @@ cd cpp-camp3 && touch tests/test_exception.cpp
 
 ## 📖 读（约 30 分钟）
 
-- learncpp：异常章节
-- 搜「C++ 异常安全 三个级别」
+- LearnCpp 27.3 “Exceptions, functions, and stack unwinding”、27.4 “Uncaught exceptions and catch-all handlers”、27.5 “Exceptions, classes, and inheritance”、27.9 “Exception specifications and noexcept”
+- 异常安全等级不在以上 LearnCpp 章节范围内；本日通过 `Thrower` 实验记录异常发生时已构造对象的析构顺序和资源状态
 
 ---
 

@@ -22,8 +22,7 @@ cd cpp-camp3 && cmake --build build && ./build/app
 
 ## 📖 读（约 40 分钟）
 
-- learncpp：右值引用、移动构造
-- 搜「C++ 右值引用 移动语义 详解」
+- LearnCpp 12.2 “Value categories (lvalues and rvalues)”、16.5 “Returning std::vector, and an introduction to move semantics”、22.1 “Introduction to smart pointers and move semantics”、22.3 “Move constructors and move assignment”
 - **这块难，允许读慢一点**
 
 ---

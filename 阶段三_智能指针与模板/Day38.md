@@ -22,8 +22,8 @@ cd cpp-camp3 && touch tests/test_cycle.cpp
 
 ## 📖 读（约 30 分钟）
 
-- 搜「C++ shared_ptr 循环引用 weak_ptr」
-- 只读概念
+- LearnCpp 22.7 “Circular dependency issues with std::shared_ptr, and std::weak_ptr”
+- 只读强引用形成环、对象无法释放的原因，以及 `std::weak_ptr` 如何打破环
 
 ---
 

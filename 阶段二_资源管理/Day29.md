@@ -22,8 +22,8 @@ cd cpp-camp3 && cmake --build build && ./build/app
 
 ## 📖 读（约 40 分钟）
 
-- learncpp：运算符重载、友元函数
-- 搜「C++ 运算符重载 成员 vs 友元 区别」
+- LearnCpp 21.1 “Introduction to operator overloading”、21.3 “Overloading operators using normal functions”、15.8 “Friend non-member functions”
+- 对照 `a + b` 与 `a += b`，区分普通非成员运算符函数和友元函数的适用场景
 
 ---
 

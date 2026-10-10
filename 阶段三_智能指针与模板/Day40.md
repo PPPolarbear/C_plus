@@ -22,8 +22,8 @@ cd cpp-camp3 && cmake --build build
 
 ## 📖 读（约 30 分钟）
 
-- learncpp：迭代器、范围 for 循环
-- 搜「C++ range-based for 原理」
+- LearnCpp 16.8 “Range-based for loops (for-each)”、18.2 “Introduction to iterators”
+- 对照范围 for 的遍历语法与 `begin()` / `end()` 迭代器接口
 
 ---
 

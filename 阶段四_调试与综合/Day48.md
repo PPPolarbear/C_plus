@@ -22,7 +22,8 @@ cd cpp-camp3 && cmake --build build
 
 ## 📖 读（约 20 分钟）
 
-- 搜「gdb watch 监视点 用法」
+- GNU GDB Manual：“Setting Watchpoints”、“Backtraces”、“Selecting a Frame”
+- 重点练 `watch`、`bt` 与 `frame`，分别对应变量改写、调用栈和栈帧切换
 
 ---
 

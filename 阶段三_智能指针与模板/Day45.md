@@ -22,6 +22,7 @@ cd cpp-camp3 && cmake --build build
 
 ## 📖 读（约 20 分钟）
 
+- **不读新内容。**回看 LearnCpp 11.6 “Function templates”、13.13 “Class templates”、22.3 “Move constructors and move assignment”、22.5 “std::unique_ptr”、22.6 “std::shared_ptr”、22.7 “Circular dependency issues with std::shared_ptr, and std::weak_ptr”及12.15 “std::optional”；只查测试失败对应的章节
 不读新内容。
 
 ---

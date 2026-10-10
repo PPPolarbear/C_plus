@@ -22,6 +22,7 @@ cd cpp-camp3 && touch tests/test_diff.cpp
 
 ## 📖 读（约 20 分钟）
 
+- **不读新内容。**只回看 LearnCpp 21.1 “Introduction to operator overloading”、21.3 “Overloading operators using normal functions”，并检查 MyString / MyVector 与对应标准类型的接口差异
 不读新内容。今天只写测试。
 
 ---

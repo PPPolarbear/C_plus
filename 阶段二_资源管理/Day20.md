@@ -20,8 +20,8 @@ cd cpp-camp3 && cmake --build build && ./build/app
 
 ## 📖 读（约 30 分钟）
 
-- learncpp：动态内存分配 + 类的相关章节
-- 搜「C++ vector 扩容 2倍 均摊复杂度」
+- LearnCpp 16.2 “Introduction to std::vector and list constructors”、16.10 “std::vector resizing and capacity”、19.2 “Dynamically allocating arrays”、23.6 “Container classes”
+- cppreference：`std::vector` 页面中的 “Capacity” 与 “Modifiers” 两节，对照 `push_back` 和扩容行为
 
 ---
 

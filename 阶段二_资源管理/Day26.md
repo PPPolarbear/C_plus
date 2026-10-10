@@ -22,8 +22,8 @@ cd cpp-camp3 && cmake --build build && ./build/app
 
 ## 📖 读（约 30 分钟）
 
-- learncpp：移动赋值、五法则
-- 搜「C++ 五法则 Rule of Five」
+- LearnCpp 22.3 “Move constructors and move assignment”、14.14 “Introduction to the copy constructor”、15.4 “Introduction to destructors”
+- 用这三类特殊成员函数对照 Rule of Five：新增移动构造和移动赋值后，哪些操作需要自定义
 
 ---
 

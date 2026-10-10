@@ -22,6 +22,7 @@ cd cpp-camp2 && cmake --build build && ./build/app
 
 ## 📖 读（约 20 分钟）
 
+- **不读新内容。**回看 LearnCpp 15.4 “Introduction to destructors”、19.3 “Destructors”，并用 C++ Core Guidelines R.1 “Manage resources automatically using resource handles and RAII”核对 RAII 的资源获取与释放关系
 不读新内容。
 
 ---

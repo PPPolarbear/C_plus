@@ -24,8 +24,8 @@ cd cpp-camp3 && touch include/myvector.h
 
 ## 📖 读（约 40 分钟）
 
-- learncpp：类 + 动态内存分配相关章节
-- **只读够用的，别贪多**
+- LearnCpp 14.2 “Introduction to classes”、15.4 “Introduction to destructors”、19.1 “Dynamic memory allocation with new and delete”、19.2 “Dynamically allocating arrays”、23.6 “Container classes”
+- **只读以上章节中与成员、资源所有权和析构清理直接相关的内容，别贪多**
 
 ---
 

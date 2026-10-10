@@ -22,8 +22,8 @@ cd cpp-camp3 && touch include/myoptional.h
 
 ## 📖 读（约 20 分钟）
 
-- 查 [cppreference 中文](https://zh.cppreference.com/) 的 `std::optional`
-- 对照接口列表
+- LearnCpp 12.15 “std::optional”
+- 对照 cppreference `std::optional` 页面中的 “Observers”与 “Monadic operations”之外的基础 “Modifiers”接口，聚焦 `has_value()`、`value()`、`reset()`、`emplace()`
 
 ---
 

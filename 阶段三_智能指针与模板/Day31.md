@@ -22,7 +22,7 @@ cd cpp-camp3 && cmake --build build
 
 ## 📖 读（约 40 分钟）
 
-- learncpp：函数模板、类模板、模板特化
+- LearnCpp 11.6 “Function templates”、11.7 “Function template instantiation”、11.8 “Function templates with multiple template types”、13.13 “Class templates”、15.5 “Class templates with member functions”
 - 重点：**模板是在编译期展开的**
 
 ---

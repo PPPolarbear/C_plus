@@ -20,8 +20,8 @@ cd cpp-camp3 && cmake --build build && ./build/app
 
 ## 📖 读（约 20 分钟）
 
-- 查 [cppreference 中文](https://zh.cppreference.com/) 的 `std::vector` 页面
-- **只看接口列表**，对照补全
+- LearnCpp 16.2 “Introduction to std::vector and list constructors”、16.10 “std::vector resizing and capacity”
+- 查 cppreference `std::vector` 页面中的 “Element access”、“Capacity”、“Modifiers”三节，对照补全 API
 
 ---
 

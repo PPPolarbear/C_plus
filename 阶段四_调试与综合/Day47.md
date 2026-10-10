@@ -22,7 +22,7 @@ cd cpp-camp3 && touch tests/buggy.cpp
 
 ## 📖 读（约 20 分钟）
 
-不读新内容。
+- **不读新内容。**对照 GNU GDB Manual “Examining Data”、“Examining the Stack”与“Continuing and Stepping”，只回看定位今天三个 bug 所需的命令
 
 ---
 

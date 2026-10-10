@@ -22,8 +22,8 @@ cd cpp-camp2 && cmake --build build && ./build/app
 
 ## 📖 读（约 40 分钟）
 
-- learncpp：引用、const 相关章节
-- 搜「C++ const 指针 三种写法」辅助理解
+- LearnCpp 12.3 “Lvalue references”、12.4 “Lvalue references to const”、12.9 “Pointers and const”、12.14 “Type deduction with pointers, references, and const”
+- 对照 12.9 中指向常量的指针与常量指针，写出 `const int*` / `int* const` / `const int* const` 三种声明
 
 ---
 
