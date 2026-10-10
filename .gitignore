@@ -1,0 +1,96 @@
+# ============================================
+#  C++ 项目通用 .gitignore
+#  原则：只提交"人手写的"，不提交"机器生成的"
+# ============================================
+
+
+# ---------- 构建目录 ----------
+# CMake 的构建产物全在这里，是本文件最该忽略的东西
+build/
+build-*/
+cmake-build-*/
+out/
+bin/
+lib/
+
+# ---------- CMake 生成的零散文件 ----------
+# 有时 configure 会在源码目录留下这些（正常情况应该在 build/ 里）
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+install_manifest.txt
+compile_commands.json
+*.cmake.stamp
+
+
+# ---------- 编译中间产物 ----------
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+*.d
+*.gcda
+*.gcno
+*.pdb
+*.ilk
+
+
+# ---------- 调试 / 性能剖析产物 ----------
+# 训练营 Day 18-51 大量用 valgrind，Day 55+ 用 perf
+vg.log
+vgcore.*
+core
+core.*
+callgrind.out.*
+perf.data
+perf.data.old
+*.folded
+*.svg.tmp
+
+
+# ---------- 编辑器 / IDE ----------
+.vscode/
+.idea/
+.vs/
+*.swp
+*.swo
+*~
+*.user
+*.sln
+*.vcxproj*
+
+
+# ---------- 日志 ----------
+*.log
+
+
+# ---------- 系统文件 ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# ============================================
+#  注意事项
+# ============================================
+#
+# 1. 【手写的 Makefile 不要忽略】
+#    基础工具/03_Makefile.md 里你会手写 Makefile —— 那是要提交的。
+#    上面没有全局忽略 `Makefile`，只忽略了 `build/` 目录（CMake 生成的那些在里面）。
+#
+# 2. 【.vscode 里如果有想共享的配置】
+#    比如团队共用 launch.json，可以改成：
+#        .vscode/*
+#        !.vscode/launch.json
+#    个人学习仓库直接整个忽略就行。
+#
+# 3. 【已经被提交过的文件】——加进 .gitignore 不会自动消失
+#    要先执行：
+#        git rm -r --cached <路径>
+#    详见本次的修复步骤。
